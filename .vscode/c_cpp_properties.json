@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "D:\\MinGW\\mingw64-posix\\include",
+        "D:\\MinGW\\mingw64-posix\\include\\opencv2"
+      ],
+      "compilerPath": "D:/MinGW/mingw64-posix/bin/gcc.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerArgs": [
+        ""
+      ]
+    }
+  ],
+  "version": 4
+}
